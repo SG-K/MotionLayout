@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MotionLayoutSample</string>
+    <string name="unlocked_lable">Unlocked</string>
 </resources>
